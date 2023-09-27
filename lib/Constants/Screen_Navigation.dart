@@ -1,0 +1,30 @@
+class ScreenNavigationConstant {
+  static const String loginScreen = '/';
+  static const String introScreen = '/introScreen';
+  static const String RegisterScreen1 = '/register-1';
+  static const String RegisterScreen2 = '/register-2';
+  static const String RegisterScreen3 = '/register-3';
+  static const String IntroductionVideoScreen = '/introduction-video';
+  static const String homeScreen = '/home';
+  static const String PrayerDiaryScreen = '/prayer-diary';
+  static const String PreviousPrayerEntryScreen = '/previous-prayer-entry';
+  static const String NewPrayerEntryScreen = '/new-prayer-entry';
+  static const String PickLessonScreen = '/pick-lesson';
+  static const String Lesson1Screen = '/lesson-1';
+  static const String Lesson2Screen = '/lesson-2';
+  static const String Lesson3Screen = '/lesson-3';
+  static const String Lesson4Screen = '/lesson-4';
+  static const String Lesson5Screen = '/lesson-5';
+  static const String ChaplainScreen = '/chaplain';
+  static const String PopupLessonScreen = '/popup-lesson';
+  static const String Set1Screen = '/set-1';
+  static const String Set2Screen = '/set-2';
+  static const String Set3Screen = '/set-3';
+  static const String Set4Screen = '/set-4';
+  static const String Set5Screen = '/set-5';
+  static const String Set6Screen = '/set-6';
+  static const String ForgotPassword1 = '/forgot-password-1';
+  static const String ForgotPassword2 = '/forgot-password-2';
+  static const String Tutorial = '/tutorial';
+  static const String Instruction = '/instruction';
+}
